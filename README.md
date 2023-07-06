@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maciej Salwin</h1>
-<h3 align="center">I'm a passionate programmer. I have an active GitHub account where I showcase my coding projects. On my GitHub profile, you will find a diverse range of repositories that reflect my interests and skills.</h3>
+<h3 align="center">I am currently studying at the Polish-Japanese Academy of Information Technology, pursuing a degree in Computer Science. I'm in my fourth year of studies and thoroughly enjoying the program. 
+  I'm a passionate programmer. I have an active GitHub account where I showcase my coding projects. On my GitHub profile, you will find a diverse range of repositories that reflect my interests and skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maciejsalwin&label=Profile%20views&color=0e75b6&style=flat" alt="maciejsalwin" /> </p>
 
