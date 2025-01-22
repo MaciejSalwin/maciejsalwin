@@ -7,11 +7,8 @@
 I hold a degree in Computer Science from the Polish-Japanese Academy of Information Technology, specializing in
 robotics 🎓. My passion lies in integrating robotics with programming , driving my ambition to develop a career in this field.
 
-I’d love to hear from you if you have any insights, opportunities, or advice to share 🧠! Don’t hesitate to reach out to me at maciejsalwin@gmail.com or on my LinkedIn profile:
-<a href="https://www.linkedin.com/in/maciejsalwin/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" alt="LinkedIn" style="width: 20px; height: 20px; vertical-align: middle;"/>
-</a>
- Let’s connect and discover ways we can work together!
+I’d love to hear from you if you have any insights, opportunities, or advice to share 🧠! Don’t hesitate to reach out to me at maciejsalwin@gmail.com
+Let’s connect and discover ways we can work together!
 
 
 
@@ -25,7 +22,9 @@ I’d love to hear from you if you have any insights, opportunities, or advice t
 - 🔭 &nbsp; I’m currently working on **HyperSkill Java Developer Certificate**
 - 🌱 &nbsp; I’m currently learning Java | Spring | Hibernate; 
 - 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/maciejsalwin/)
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/maciejsalwin/)  <a href="https://www.linkedin.com/in/maciejsalwin/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
+  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" alt="LinkedIn" style="width: 20px; height: 20px; vertical-align: middle;"/>
+</a>
 - 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1XI8DMPpBM2FJnWljXNJ3wxJ6dhIKQT-3/view?usp=sharing)
 
 <br>
