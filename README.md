@@ -38,4 +38,14 @@ Here are all of the Languages and Tools that i've used.
   </a>
 </p>
 
-
+* Java
+* Spring
+* Hibernate
+* C#
+* .NET
+* Python
+* CSS/HTML
+* SQL
+* Bash
+* Git
+* UML
