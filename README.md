@@ -1,10 +1,12 @@
 ## Hey 👋, I'm Maciej Salwin!
-<a href='https://www.linkedin.com/in/maciej-salwin-760179341/'><img align='left' alt="linkedin" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw1YlBgs9KkKQoE3kTlaWiBe&ust=1737646836175000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjO4YTViYsDFQAAAAAdAAAAABAE" height='18px'/></a>
+<a href='https://www.linkedin.com/in/maciej-salwin-760179341/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 
 
 
 I hold a degree in Computer Science from the Polish-Japanese Academy of Information Technology, specializing in
 robotics 🎓. My passion lies in integrating robotics with programming , driving my ambition to develop a career in this field.
+
+I’d love to hear from you if you have any insights, opportunities, or advice to share 🧠! Don’t hesitate to reach out to me at maciejsalwin@gmail.com or on my Linkedin Profile <a href='https://www.linkedin.com/in/maciej-salwin-760179341/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a> Let’s connect and discover ways we can work together!
 
 <br/>
 <br/>
