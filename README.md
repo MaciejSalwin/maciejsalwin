@@ -1,4 +1,4 @@
-<h1> align="center" Hey 👋, I'm Maciej Salwin!</h1>
+<h1 align="center" Hey 👋, I'm Maciej Salwin!</h1>
 <p href='https://www.linkedin.com/in/maciej-salwin-760179341/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></p>
 
 
