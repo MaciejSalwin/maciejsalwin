@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maciej Salwin</h1>
-<h3 align="center">I'm passionate about becoming a skilled Software Engineer. 🚀</h3> 
+<h3 align="center">I am dedicated to developing my skills as a Software Engineer! 💻</h3> 
 <p href='https://www.linkedin.com/in/maciej-salwin-760179341/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></p>
 
 
