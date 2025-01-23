@@ -40,19 +40,6 @@ Here are all of the Languages and Tools that i've used.
   </a>
 </p>
 
-* Java
-* Spring
-* Hibernate
-* C#
-* .NET
-* Python
-* CSS/HTML
-* SQL
-* Bash
-* Git
-* UML
-
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MaciejSalwin/MaciejSalwin/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MaciejSalwin/MaciejSalwin/output/github-snake.svg" />
